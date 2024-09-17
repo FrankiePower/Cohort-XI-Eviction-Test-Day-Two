@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/ejezie-franklin-ifechukwu/Desktop/EVICTION TEST DAY 2/Question 1/contracts/Interfaces/IERC20.sol": {
+      "lastModificationDate": 1726590593896,
+      "contentHash": "767f8b318318bd79f5523843a7dcf2ac",
+      "sourceName": "contracts/Interfaces/IERC20.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "IERC20"
+      ]
+    },
+    "/home/ejezie-franklin-ifechukwu/Desktop/EVICTION TEST DAY 2/Question 1/contracts/Interfaces/IUniswapV2Router02.sol": {
+      "lastModificationDate": 1726590593896,
+      "contentHash": "e5e602868af7185cab558601f48494b5",
+      "sourceName": "contracts/Interfaces/IUniswapV2Router02.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "IUniswapV2Router02"
+      ]
+    }
+  }
+}
